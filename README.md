@@ -1,5 +1,5 @@
 ---
-# **ML Stock Market Predictor**
+# **FinTech AI Predictor**
 ---
 ## **Table of Contents**
 ---
