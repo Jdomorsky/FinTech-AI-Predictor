@@ -169,11 +169,15 @@ Finally, the model's dependence on a fixed threshold for probability conversion 
 ### References
 ---
 
+- [***Visual Studio Code (VS Code):***](https://code.visualstudio.com/) IDE used with the Jupyter Notebook extensions for interactive analysis.
+
+- [***Jupyter Notebook:***](https://jupyter.org/) Interactive computing environment that facilitated exploratory data analysis.
+
+- [***Python:***](https://www.python.org/) The programming language used for this project.
+
 - [***Yahoo Finance:***](https://finance.yahoo.com/) Data source for historical market data.
 
 - [***yfinance:***](https://github.com/ranaroussi/yfinance) Python library for retrieving Yahoo Finance data.
-
-- [***Python:***](https://www.python.org/) The programming language used for this project.
 
 - [***pandas:***](https://pandas.pydata.org/) Library for data manipulation and analysis.
 
@@ -181,6 +185,5 @@ Finally, the model's dependence on a fixed threshold for probability conversion 
 
 - [***scikit-learn:***](https://scikit-learn.org/) Machine learning library used for building the models and evaluating performance.
 
-- [***Visual Studio Code (VS Code):***](https://code.visualstudio.com/) IDE used with the Jupyter Notebook extensions for interactive analysis.
 
-- [***Jupyter Notebook:***](https://jupyter.org/) Interactive computing environment that facilitated exploratory data analysis.
+
